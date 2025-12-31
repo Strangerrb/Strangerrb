@@ -19,3 +19,10 @@ I also have hands-on experience designing flyers and digital visuals, which help
 - Think visually when building UIs
 - Maintain consistency in spacing, color, and layout
 - Communicate better with designers
+
+## Projects
+Pinned below are learning-driven projects with clear documentation
+showing what I built, why I built it, and what I learned.
+
+## Learning in Public
+I document my progress through commits and README files as I grow.
