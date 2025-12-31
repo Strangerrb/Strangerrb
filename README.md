@@ -29,16 +29,6 @@ I also bring a **design lens** to development—my experience crafting digital f
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=emman-dev&show_icons=true&theme=radical&count_private=true" alt="Emmanuel's GitHub Stats"/>
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=emman-dev&theme=radical" alt="GitHub Streak"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emman-dev&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
-
----
-
 ## 🔗 Connect with Me
 
 <p>
