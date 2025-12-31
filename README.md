@@ -42,13 +42,13 @@ I also bring a **design lens** to development—my experience crafting digital f
 ## 🔗 Connect with Me
 
 <p>
-  <a href="https://www.linkedin.com/in/emmanuelsarkodie/" target="_blank">
+  <a href="www.linkedin.com/in/emmanuel-sarkodie-74890220b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:youremail@example.com" target="_blank">
+  <a href="mailto:emmanuelsarkodie23@outlook.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://twitter.com/yourhandle" target="_blank">
+  <a href="https://x.com/bigmorty_" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
 </p>
