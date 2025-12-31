@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Emmanuel Sarkodie 👋
 
-<!--
-**Strangerrb/Strangerrb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a frontend-focused developer learning by building real projects with modern web tools.
+I care about clean structure, readable code, and interfaces that actually make sense.
 
-Here are some ideas to get you started:
+## What I’m Focused On
+- Building frontend applications with Next.js and TypeScript
+- Writing clean, maintainable UI code using Tailwind CSS
+- Translating designs into functional, responsive web interfaces
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Stack
+- Next.js (App Router)
+- TypeScript
+- Tailwind CSS
+- Git & GitHub
+
+## Design Experience
+I also have hands-on experience designing flyers and digital visuals, which helps me:
+- Think visually when building UIs
+- Maintain consistency in spacing, color, and layout
+- Communicate better with designers
